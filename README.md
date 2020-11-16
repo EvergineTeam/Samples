@@ -1,8 +1,8 @@
 # WaveEngine 3.1 Samples
 
-This repo contains all the samples code that is part of any topic under the new WaveEngine 3.1 version based on .NET 5.
+This repository contains all the samples code that are part of any topic under the new WaveEngine 3.1 version based on .NET 5.
 
-We are using different github repositories to make easy to download each of them individually. The complete list of samples is using WaveEngine 3.1 and to build this you only need to restore the nuget devependecies and build the project respectively.
+We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using WaveEngine 3.1 and to build these you only need to restore the Nuget dependencies and build the project respectively.
 
 # Samples list.
 
