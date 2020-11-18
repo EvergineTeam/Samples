@@ -9,41 +9,41 @@ We are using different Github repositories to make it easy to download each of t
 ## The standard post-processing graph
 Description
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.png)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/NET5Demo
 
 ## Area Lights demo
 Description
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.png)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
+
+## Mixed Reality Demo
+WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
+
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/MRTKDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
 
 ## GPU Skinning
 Description
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.png)
-
-Source Code: https://github.com/WaveEngine/AreaLightsDemo
-
-## GPU Particles
-Description
-
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.png)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
 
 ## UI API integrations
 Description: WPF, Windows Forms, SDL and WinUI
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.png)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/UIWindowSystemsDemo
 
 ## Low Level API
-Description: DrawCube, DrawIndirect, Stencil, GeometryShader, 2D Texture Array, TextureCube Array, RenderToTexture and ComputeRaytracing
+Set of samples using the Low Level abstraction API over Vulkan, DirectX, OpenGL, Metal.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.png)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/LowLevelAPIDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/LowLevelAPIDemo
