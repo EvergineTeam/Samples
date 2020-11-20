@@ -35,7 +35,7 @@ Description
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
 
 ## UI API integrations
-Description: WPF, Windows Forms, SDL and WinUI
+This demo shows how you can integrate WaveEngine in an application using the WindowSystem.
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/UIAPIIntegrationsDemo.jpg)
 
