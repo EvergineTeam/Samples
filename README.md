@@ -7,7 +7,7 @@ We are using different Github repositories to make it easy to download each of t
 # Samples list.
 
 ## The standard post-processing graph
-Description
+This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12 and Vulkan.
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.jpg)
 
@@ -32,12 +32,12 @@ Description
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
-Source Code: https://github.com/WaveEngine/AreaLightsDemo
+Source Code: https://github.com/WaveEngine/GPUSkinningDemo
 
 ## UI API integrations
-Description: WPF, Windows Forms, SDL and WinUI
+This demo shows how you can integrate WaveEngine in an application using the WindowSystem.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/UIAPIIntegrationsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/UIWindowSystemsDemo
 
