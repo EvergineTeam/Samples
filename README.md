@@ -7,7 +7,7 @@ We are using different Github repositories to make it easy to download each of t
 # Samples list.
 
 ## The standard post-processing graph
-Description
+This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping. And you can check it on DirectX11, DirectX12 and Vulkan
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.jpg)
 
