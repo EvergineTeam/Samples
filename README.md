@@ -30,7 +30,7 @@ Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
 ## GPU Skinning
 Description
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/GPUSkinningDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/GPUSkinningDemo
 
