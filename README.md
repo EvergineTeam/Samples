@@ -28,7 +28,7 @@ WaveEngine.MRTK is a project that provides a set of components and features used
 Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
 
 ## GPU Skinning
-Description
+This demo uses the new Wave Engine 3.1 compute shader capabilities to generate skinned animated models in a impressive performance boost.
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/GPUSkinningDemo.jpg)
 
