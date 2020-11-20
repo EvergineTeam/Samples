@@ -14,7 +14,7 @@ This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing
 Source Code: https://github.com/WaveEngine/NET5Demo
 
 ## Area Lights demo
-Description
+This demo uses the new WaveEngine 3.1 Area Light capabilities to create special soft light effects.
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
