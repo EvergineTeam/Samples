@@ -32,7 +32,7 @@ Description
 
 ![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
-Source Code: https://github.com/WaveEngine/AreaLightsDemo
+Source Code: https://github.com/WaveEngine/GPUSkinningDemo
 
 ## UI API integrations
 This demo shows how you can integrate WaveEngine in an application using the WindowSystem.
