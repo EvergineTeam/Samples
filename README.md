@@ -13,37 +13,37 @@ This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing
 
 Source Code: https://github.com/WaveEngine/NET5Demo
 
+## UI API integrations
+This demo shows how you can integrate WaveEngine in an application using the WindowSystem. The Windows Forms and SDL uses the full window to render the application and the WPF sample demonstrates a way to include a WaveEngine renderer and how it can interact with WPF controls.
+
+![alt UIAPIIntegrationsDemo](https://github.com/WaveEngine/Samples/blob/main/Images/UIAPIIntegrationsDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/UIWindowSystemsDemo
+
 ## Area Lights demo
 This demo uses the new WaveEngine 3.1 Area Light capabilities to create special soft light effects.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
+![alt AreaLightsDemo](https://github.com/WaveEngine/Samples/blob/main/Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
 
 ## Mixed Reality Demo
 WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/MRTKDemo.jpg)
+![alt MRTKDemo](https://github.com/WaveEngine/Samples/blob/main/Images/MRTKDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
 
 ## GPU Skinning
 This demo uses the new Wave Engine 3.1 compute shader capabilities to generate skinned animated models in a impressive performance boost.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/GPUSkinningDemo.jpg)
+![alt GPUSkinningDemo](https://github.com/WaveEngine/Samples/blob/main/Images/GPUSkinningDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/GPUSkinningDemo
-
-## UI API integrations
-This demo shows how you can integrate WaveEngine in an application using the WindowSystem.
-
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/UIAPIIntegrationsDemo.jpg)
-
-Source Code: https://github.com/WaveEngine/UIWindowSystemsDemo
 
 ## Low Level API
 Set of samples using the Low Level abstraction API over Vulkan, DirectX, OpenGL, Metal.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/LowLevelAPIDemo.jpg)
+![alt LowLevelAPIDemo](https://github.com/WaveEngine/Samples/blob/main/Images/LowLevelAPIDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/LowLevelAPIDemo
