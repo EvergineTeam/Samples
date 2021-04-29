@@ -1,8 +1,8 @@
-# WaveEngine 3.1 Samples
+# WaveEngine 3.2 Samples
 
-This repository contains all the samples code that are part of any topic under the new WaveEngine 3.1 version based on .NET 5.
+This repository contains all the samples code that are part of any topic under the new WaveEngine 3.2 version based on .NET 5.
 
-We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using WaveEngine 3.1 and to build these you only need to restore the Nuget dependencies and build the project respectively.
+We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using WaveEngine 3.2 and to build these you only need to restore the Nuget dependencies and build the project respectively.
 
 # Samples list.
 
@@ -42,14 +42,14 @@ This demo uses the power of compute shaders to simulate differents particle syst
 Source Code: https://github.com/WaveEngine/ParticlesSample
 
 ## Area Lights demo
-This demo uses the new WaveEngine 3.1 Area Light capabilities to create special soft light effects.
+This demo uses the new WaveEngine 3.2 Area Light capabilities to create special soft light effects.
 
 ![alt AreaLightsDemo](Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
 
 ## The standard post-processing graph
-This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12 and Vulkan.
+This demo scene uses WaveEngine 3.2 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12 and Vulkan.
 
 ![alt PostProcessingDemo](Images/PostProcessingStackDemo.jpg)
 
