@@ -21,7 +21,7 @@ This demo uses a backed map 3D model to implement a simple interaction and naveg
 Source Code: https://github.com/WaveEngine/SmartCityDemo
 
 ## Digital Twin Demo
-Digital Twin application sample based on a solar energy field. It simulates a time lapse and how users could check different measurements related to tracker angles, voltage or intensity.
+Digital Twin Web application sample (WebGL) based on a solar energy field. It simulates a time lapse and how users could check different measurements related to tracker angles, voltage or intensity.
 
 ![alt Digital Twin Demo](Images/DigitalTwinDemo.jpg)
 
