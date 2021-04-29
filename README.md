@@ -20,6 +20,13 @@ This demo uses a backed map 3D model to implement a simple interaction and naveg
 
 Source Code: https://github.com/WaveEngine/SmartCityDemo
 
+## Digital Twin Demo
+Digital Twin application sample based on a solar energy field. It simulates a time lapse and how users could check different measurements related to tracker angles, voltage or intensity.
+
+![alt Digital Twin Demo](Images/DigitalTwinDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/DigitalTwin-Demo
+
 ## Mixed Reality Demo
 WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
 
