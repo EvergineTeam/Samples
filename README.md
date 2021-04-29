@@ -6,6 +6,20 @@ We are using different Github repositories to make it easy to download each of t
 
 # Samples list.
 
+## Automotive Demo
+This demo shows how you can use Wave Engine in an automotive application environment. It uses a simple WPF user interface integration with WaveEngine to control different parts of the car.
+
+![alt Automotive Demo](https://github.com/WaveEngine/Samples/blob/main/Images/AutomotiveDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/Automotive-Demo
+
+## Smart City Demo
+This demo uses a backed map 3D model to implement a simple interaction and navegation.
+
+![alt Smart City Demo](https://github.com/WaveEngine/Samples/blob/main/Images/SmartcityDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/SmartCityDemo
+
 ## Mixed Reality Demo
 WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
 
