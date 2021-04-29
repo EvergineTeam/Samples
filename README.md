@@ -34,6 +34,13 @@ This demo shows how you can integrate WaveEngine in an application using the Win
 
 Source Code: https://github.com/WaveEngine/UIWindowSystemsDemo
 
+## Particles demo
+This demo uses the power of compute shaders to simulate differents particle system scenarios.
+
+![alt Particle Demo](Images/ParticlesDemo.jpg)
+
+Source Code: https://github.com/WaveEngine/ParticlesSample
+
 ## Area Lights demo
 This demo uses the new WaveEngine 3.1 Area Light capabilities to create special soft light effects.
 
