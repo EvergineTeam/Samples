@@ -6,12 +6,12 @@ We are using different Github repositories to make it easy to download each of t
 
 # Samples list.
 
-## The standard post-processing graph
-This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12 and Vulkan.
+## Mixed Reality Demo
+WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
 
-![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.jpg)
+![alt MRTKDemo](https://github.com/WaveEngine/Samples/blob/main/Images/MRTKDemo.jpg)
 
-Source Code: https://github.com/WaveEngine/NET5Demo
+Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
 
 ## UI API integrations
 This demo shows how you can integrate WaveEngine in an application using the WindowSystem. The Windows Forms and SDL uses the full window to render the application and the WPF sample demonstrates a way to include a WaveEngine renderer and how it can interact with WPF controls.
@@ -27,19 +27,12 @@ This demo uses the new WaveEngine 3.1 Area Light capabilities to create special 
 
 Source Code: https://github.com/WaveEngine/AreaLightsDemo
 
-## Mixed Reality Demo
-WaveEngine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
+## The standard post-processing graph
+This demo scene uses WaveEngine 3.1 with .NET 5 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12 and Vulkan.
 
-![alt MRTKDemo](https://github.com/WaveEngine/Samples/blob/main/Images/MRTKDemo.jpg)
+![alt PostProcessingDemo](https://github.com/WaveEngine/Samples/blob/main/Images/PostProcessingStackDemo.jpg)
 
-Source Code: https://github.com/WaveEngine/MixedRealityToolkit-WaveEngine
-
-## GPU Skinning
-This demo uses the new Wave Engine 3.1 compute shader capabilities to generate skinned animated models in a impressive performance boost.
-
-![alt GPUSkinningDemo](https://github.com/WaveEngine/Samples/blob/main/Images/GPUSkinningDemo.jpg)
-
-Source Code: https://github.com/WaveEngine/GPUSkinningDemo
+Source Code: https://github.com/WaveEngine/NET5Demo
 
 ## Low Level API
 Set of samples using the Low Level abstraction API over Vulkan, DirectX, OpenGL, Metal.
