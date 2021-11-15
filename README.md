@@ -1,4 +1,4 @@
-# Evergine 2021.11.17 Samples
+# Evergine Samples
 
 This repository contains all the samples code that are part of any topic under the new Evergine 2021.11.17 version based on .NET 6.
 
