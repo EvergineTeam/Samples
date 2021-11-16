@@ -35,7 +35,7 @@ Digital Twin Web application sample (WebGL) based on a solar energy field. It si
 Source Code: https://github.com/EvergineTeam/DigitalTwin-Demo
 
 ## Mixed Reality Demo
-Evergine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Wave Engine.
+Evergine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Evergine.
 
 ![alt MRTKDemo](Images/MRTKDemo.jpg)
 
