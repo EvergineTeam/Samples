@@ -67,7 +67,7 @@ This demo scene uses Evergine with .NET 6 support. The new Post-processing graph
 
 ![alt PostProcessingDemo](Images/PostProcessingStackDemo.jpg)
 
-Source Code: https://github.com/EvergineTeam/NET5Demo
+Source Code: https://github.com/EvergineTeam/PostProcessing
 
 ## Low Level API
 Set of samples using the Low-Level abstraction API over Vulkan, DirectX, OpenGL, Metal.
