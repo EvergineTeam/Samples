@@ -9,7 +9,7 @@ We are using different Github repositories to make it easy to download each of t
 ## XR Sample
 This demo shows how you can use Evergine in an VR application using OpenXR. In this sample you can control a robot arm using your motion controllers
 
-![Path tracer Demo](Images/xrsample.png)
+![XR sample](Images/xrsample.jpg)
 
 Source Code: https://github.com/EvergineTeam/XRSample
 
