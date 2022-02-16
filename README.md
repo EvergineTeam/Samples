@@ -6,6 +6,13 @@ We are using different Github repositories to make it easy to download each of t
 
 # Samples list.
 
+## XR Sample
+This demo shows how you can use Evergine in an VR application using OpenXR. In this sample you can control a robot arm using your motion controllers
+
+![Path tracer Demo](Images/xrsample.png)
+
+Source Code: https://github.com/EvergineTeam/XRSample
+
 ## Raytracing Demo
 This is a toy path tracer that shows how to implement advanced raytracing effects as Soft Shadows, Ambient Occlusion, Global Illumination, or Antialiasing using the common raytracing API include in Evergine.
 
