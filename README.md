@@ -1,6 +1,6 @@
 # Evergine Samples
 
-This repository contains all the samples code that are part of any topic under the new Evergine 2021.11.17 version based on .NET 6.
+This repository contains all the samples code that are part of any topic under the last Evergine stable version based on .NET 6.
 
 We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using Evergine 2021.11.17 and to build these you only need to restore the Nuget dependencies and build the project respectively.
 
