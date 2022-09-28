@@ -77,7 +77,7 @@ This demo scene uses Evergine with .NET 6 support. The new Post-processing graph
 Source Code: https://github.com/EvergineTeam/PostProcessing
 
 ## ImGui, ImPlot, ImGuizmo and ImNodes demo
-In this sample shows how to use the ImGui extension in Evergine. The sample includes code for test the ImGui, ImPlot, ImGuizmo and ImNodes.
+This sample shows how to use the ImGui extension in Evergine. The sample includes code for test the ImGui, ImPlot, ImGuizmo and ImNodes.
 
 ![alt ImGui Demo](Images/ImGuiDemo.jpg)
 
