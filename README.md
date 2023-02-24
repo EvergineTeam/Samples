@@ -89,3 +89,17 @@ Set of samples using the Low-Level abstraction API over Vulkan, DirectX, OpenGL,
 ![alt LowLevelAPIDemo](Images/LowLevelAPIDemo.jpg)
 
 Source Code: https://github.com/EvergineTeam/LowLevelAPIDemo
+
+## Vehicle Physics Sample
+This sample shows how you can use Evergine to perform vehicle physics simulations that interact with other physics elements.
+
+![alt Vehicle Physics Sample](Images/VehiclePhysicsSample.jpg)
+
+Source Code: https://github.com/EvergineTeam/VehiclePhysicsSample
+
+## Physics Joints Sample
+This sample shows the different types of physics joints that you can use Evergine to enhance your physics simulations.
+
+![alt Physics Joints Sample](Images/JointPhysicsSample.jpg)
+
+Source Code: https://github.com/EvergineTeam/PhysicsJointsSample
