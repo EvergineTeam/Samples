@@ -39,7 +39,7 @@ Sample of our XRV library (preview) working within its public modules.
 
 ![alt XRV sample](Images/xrv.jpg)
 
-Source Code: https://github.com/EvergineTeam/XRVSample
+Source Code: https://github.com/EvergineTeam/XRV
 
 ## XR Sample
 This demo shows how you can use Evergine in an VR application using OpenXR. In this sample you can control a robot arm using your motion controllers
