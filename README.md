@@ -30,7 +30,7 @@ Source Code: https://github.com/EvergineTeam/PhysicsJointsSample
 ## Gaussian Splatting Demo
 In this sample you can explore Gaussian Splatting technology using Evergine. You can navigate through a Gaussian Splatting scene and use this code base to extend and explore new possibilities.
 
-![NeRF sample](Images/GaussianSplattingDemo.jpg)
+![GaussianSplatting sample](Images/GaussianSplattingDemo.jpg)
 
 Source Code: https://github.com/EvergineTeam/GaussianSplatting-Demo
 
