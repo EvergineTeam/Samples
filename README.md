@@ -27,6 +27,13 @@ This sample shows the different types of physics joints that you can use Evergin
 
 Source Code: https://github.com/EvergineTeam/PhysicsJointsSample
 
+## Gaussian Splatting Demo
+In this sample you can explore Gaussian Splatting technology using Evergine. You can navigate through a Gaussian Splatting scene and use this code base to extend and explore new possibilities.
+
+![NeRF sample](Images/GaussianSplattingDemo.jpg)
+
+Source Code: [https://github.com/EvergineTeam/NeRF-Demo](https://github.com/EvergineTeam/GaussianSplatting-Demo)
+
 ## NeRF Demo
 In this NeRF sample you can explore Neural Radiance Field technology using Evergine. You can navigate through a NeRF scene and use this code base to extend and explore new possibilities.
 
