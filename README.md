@@ -32,7 +32,7 @@ In this sample you can explore Gaussian Splatting technology using Evergine. You
 
 ![NeRF sample](Images/GaussianSplattingDemo.jpg)
 
-Source Code: [https://github.com/EvergineTeam/NeRF-Demo](https://github.com/EvergineTeam/GaussianSplatting-Demo)
+Source Code: https://github.com/EvergineTeam/GaussianSplatting-Demo
 
 ## NeRF Demo
 In this NeRF sample you can explore Neural Radiance Field technology using Evergine. You can navigate through a NeRF scene and use this code base to extend and explore new possibilities.
