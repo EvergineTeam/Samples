@@ -6,27 +6,6 @@ We are using different Github repositories to make it easy to download each of t
 
 # Samples list.
 
-## MAUI showcase
-This showcase demonstrates the seamless integration of __MAUI__ and __Evergine__. Leveraging the latest Evergine release, you can access a new MAUI project template, enabling the creation of exceptional mobile applications for both Android and iOS. This template facilitates the development of captivating UIs with MAUI, allowing for the inclusion of a 3D canvas in your views to render engaging 3D content.
-
-![alt MAUI Showcase](Images/maui.jpg)
-
-Source Code: https://github.com/EvergineTeam/EverSneaks
-
-## Vehicle Physics Sample
-This sample shows how you can use Evergine to perform vehicle physics simulations that interact with other physics elements.
-
-![alt Vehicle Physics Sample](Images/VehiclePhysicsSample.jpg)
-
-Source Code: https://github.com/EvergineTeam/VehiclePhysicsSample
-
-## Physics Joints Sample
-This sample shows the different types of physics joints that you can use Evergine to enhance your physics simulations.
-
-![alt Physics Joints Sample](Images/JointPhysicsSample.jpg)
-
-Source Code: https://github.com/EvergineTeam/PhysicsJointsSample
-
 ## Gaussian Splatting Demo
 In this sample you can explore Gaussian Splatting technology using Evergine. You can navigate through a Gaussian Splatting scene and use this code base to extend and explore new possibilities.
 
@@ -34,12 +13,19 @@ In this sample you can explore Gaussian Splatting technology using Evergine. You
 
 Source Code: https://github.com/EvergineTeam/GaussianSplatting-Demo
 
-## NeRF Demo
-In this NeRF sample you can explore Neural Radiance Field technology using Evergine. You can navigate through a NeRF scene and use this code base to extend and explore new possibilities.
+## MAUI showcase
+This showcase demonstrates the seamless integration of __MAUI__ and __Evergine__. Leveraging the latest Evergine release, you can access a new MAUI project template, enabling the creation of exceptional mobile applications for both Android and iOS. This template facilitates the development of captivating UIs with MAUI, allowing for the inclusion of a 3D canvas in your views to render engaging 3D content.
 
-![NeRF sample](Images/NeRFDemo.jpg)
+![alt MAUI Showcase](Images/maui.jpg)
 
-Source Code: https://github.com/EvergineTeam/NeRF-Demo
+Source Code: https://github.com/EvergineTeam/EverSneaks
+
+## Physics Sample
+This sample shows how you can use Evergine to perform physics simulations that interact with other physics elements.
+
+![alt Physics Sample](Images/VehiclePhysicsSample.jpg)
+
+Source Code: https://github.com/EvergineTeam/VehiclePhysicsSample
 
 ## XRV Sample
 Sample of our XRV library (preview) working within its public modules.
