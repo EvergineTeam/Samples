@@ -55,13 +55,6 @@ This demo shows how you can use Evergine in an automotive application environmen
 
 Source Code: https://github.com/EvergineTeam/Automotive-Demo
 
-## Smart City Demo
-This demo uses a backed map 3D model to implement a simple interaction and navigation.
-
-![alt Smart City Demo](Images/SmartcityDemo.jpg)
-
-Source Code: https://github.com/EvergineTeam/SmartCityDemo
-
 ## Digital Twin Demo
 Digital Twin Web application sample (WebGL) based on a solar energy field. It simulates a time-lapse and how users could check different measurements related to tracker angles, voltage, or intensity.
 
@@ -96,13 +89,6 @@ This demo uses the Evergine Area Light capabilities to create special soft light
 ![alt AreaLightsDemo](Images/AreaLightsDemo.jpg)
 
 Source Code: https://github.com/EvergineTeam/AreaLightsDemo
-
-## The standard post-processing graph
-This demo scene uses Evergine with .NET 6 support. The new Post-processing graph is used with several effects such as Screen Space Ambient Occlusion (SSAO), Screen Space Reflection (SSR), Temporal Antialiasing (TAA), Depth of Field (DoF), Bloom, and Tonemapping and you can check it on DirectX11, DirectX12, and Vulkan.
-
-![alt PostProcessingDemo](Images/PostProcessingStackDemo.jpg)
-
-Source Code: https://github.com/EvergineTeam/PostProcessing
 
 ## ImGui, ImPlot, ImGuizmo and ImNodes demo
 This sample shows how to use the ImGui extension in Evergine. The sample includes code for test the ImGui, ImPlot, ImGuizmo and ImNodes.
