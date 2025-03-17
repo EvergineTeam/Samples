@@ -13,6 +13,13 @@ In this sample you can explore Gaussian Splatting technology using Evergine. You
 
 Source Code: https://github.com/EvergineTeam/GaussianSplatting-Demo
 
+## Dicom Demo
+This sample showcases a new Evergine add-on designed for viewing DICOM files, a widely used medical imaging format. With this add-on, developers can create interactive and high-performance medical viewers, seamlessly integrating Evergine’s rendering capabilities to display 3D medical scans with precision.
+
+![Dicom sample](Images/DicomDemo.jpg)
+
+Source Code: https://github.com/EvergineTeam/Dicom-Demo
+
 ## MAUI showcase
 This showcase demonstrates the seamless integration of __MAUI__ and __Evergine__. Leveraging the latest Evergine release, you can access a new MAUI project template, enabling the creation of exceptional mobile applications for both Android and iOS. This template facilitates the development of captivating UIs with MAUI, allowing for the inclusion of a 3D canvas in your views to render engaging 3D content.
 
