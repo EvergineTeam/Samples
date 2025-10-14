@@ -2,7 +2,7 @@
 
 This repository contains all the samples code that are part of any topic under the last Evergine stable version based on .NET 8.
 
-We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using Evergine 2023.9.28 and to build these you only need to restore the Nuget dependencies and build the project respectively.
+We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using Evergine 2025.3.18 and to build these you only need to restore the Nuget dependencies and build the project respectively.
 
 # Samples list.
 
