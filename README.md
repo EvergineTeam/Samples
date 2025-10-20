@@ -2,9 +2,16 @@
 
 This repository contains all the samples code that are part of any topic under the last Evergine stable version based on .NET 8.
 
-We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using Evergine 2025.3.18 and to build these you only need to restore the Nuget dependencies and build the project respectively.
+We are using different Github repositories to make it easy to download each of them individually. The complete list of samples is using Evergine 2025.10.21 and to build these you only need to restore the Nuget dependencies and build the project respectively.
 
 # Samples list.
+
+## Evergine Runtime Lab
+This Evergine sample demonstrates the Runtime Loaders that allows loading multiple file formats at runtime.
+
+![GaussianSplatting sample](Images/runtimes.jpg)
+
+Source Code: https://github.com/EvergineTeam/EvergineRuntimeLab
 
 ## Gaussian Splatting Demo
 In this sample you can explore Gaussian Splatting technology using Evergine. You can navigate through a Gaussian Splatting scene and use this code base to extend and explore new possibilities.
