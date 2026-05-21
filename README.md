@@ -62,13 +62,6 @@ This is a toy path tracer that shows how to implement advanced raytracing effect
 
 Source Code: https://github.com/EvergineTeam/Raytracing
 
-## Automotive Demo
-This demo shows how you can use Evergine in an automotive application environment. It uses a simple WPF user interface integration with Evergine to control different parts of the car.
-
-![alt Automotive Demo](Images/AutomotiveDemo.jpg)
-
-Source Code: https://github.com/EvergineTeam/Automotive-Demo
-
 ## Digital Twin Demo
 Digital Twin Web application sample (WebGL) based on a solar energy field. It simulates a time-lapse and how users could check different measurements related to tracker angles, voltage, or intensity.
 
