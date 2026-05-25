@@ -6,13 +6,6 @@ We are using different Github repositories to make it easy to download each of t
 
 # Samples list.
 
-## Evergine Runtime Lab
-This Evergine sample demonstrates the Runtime Loaders that allows loading multiple file formats at runtime.
-
-![GaussianSplatting sample](Images/runtimes.jpg)
-
-Source Code: https://github.com/EvergineTeam/EvergineRuntimeLab
-
 ## Gaussian Splatting Demo
 In this sample you can explore Gaussian Splatting technology using Evergine. You can navigate through a Gaussian Splatting scene and use this code base to extend and explore new possibilities.
 
@@ -26,6 +19,13 @@ This sample demostrates how to use the Evergine Cesium addon to create GIS appli
 ![Cesium_sample](https://github.com/EvergineTeam/CesiumDemo/raw/master/readme_images/demo.jpg)
 
 Source Code: https://github.com/evergineteam/cesiumdemo
+
+## Evergine Runtime Lab
+This Evergine sample demonstrates the Runtime Loaders that allows loading multiple file formats at runtime.
+
+![GaussianSplatting sample](Images/runtimes.jpg)
+
+Source Code: https://github.com/EvergineTeam/EvergineRuntimeLab
 
 ## Dicom Demo
 This sample showcases a new Evergine add-on designed for viewing DICOM files, a widely used medical imaging format. With this add-on, developers can create interactive and high-performance medical viewers, seamlessly integrating Evergine’s rendering capabilities to display 3D medical scans with precision.
