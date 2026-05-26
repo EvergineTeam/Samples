@@ -1,0 +1,35 @@
+name: Sync Sample.json to Azure Blob
+
+on:
+  push:
+    branches: [main]
+    paths: ['README.md']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Sample.json from README
+        run: python .github/scripts/generate_samples_json.py --output Sample.json
+
+      - name: Upload Sample.json to Azure Blob Storage
+        run: |
+          az storage blob upload \
+            --container-name launcher \
+            --name Sample.json \
+            --file Sample.json \
+            --overwrite \
+            --content-type "application/json" \
+            --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}"

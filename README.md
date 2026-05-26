@@ -16,7 +16,7 @@ Source Code: https://github.com/EvergineTeam/GaussianSplatting-Demo
 ## Cesium Demo
 This sample demostrates how to use the Evergine Cesium addon to create GIS applications.
 
-![Cesium_sample](https://github.com/EvergineTeam/CesiumDemo/raw/master/readme_images/demo.jpg)
+![Cesium_sample](https://github.com/EvergineTeam/CesiumDemo/raw/main/readme_images/demo.jpg)
 
 Source Code: https://github.com/evergineteam/cesiumdemo
 
@@ -67,6 +67,8 @@ This is a toy path tracer that shows how to implement advanced raytracing effect
 
 ![Path tracer Demo](Images/Raytracing.png)
 
+<!-- OpensInEvergineStudio: false -->
+
 Source Code: https://github.com/EvergineTeam/Raytracing
 
 ## Digital Twin Demo
@@ -115,5 +117,7 @@ Source Code: https://github.com/EvergineTeam/ImGui-Demo
 Set of samples using the Low-Level abstraction API over Vulkan, DirectX, OpenGL, Metal.
 
 ![alt LowLevelAPIDemo](Images/LowLevelAPIDemo.jpg)
+
+<!-- OpensInEvergineStudio: false -->
 
 Source Code: https://github.com/EvergineTeam/LowLevelAPIDemo
