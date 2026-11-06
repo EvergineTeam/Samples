@@ -71,13 +71,6 @@ This is a toy path tracer that shows how to implement advanced raytracing effect
 
 Source Code: https://github.com/EvergineTeam/Raytracing
 
-## Digital Twin Demo
-Digital Twin Web application sample (WebGL) based on a solar energy field. It simulates a time-lapse and how users could check different measurements related to tracker angles, voltage, or intensity.
-
-![alt Digital Twin Demo](Images/DigitalTwinDemo.jpg)
-
-Source Code: https://github.com/EvergineTeam/DigitalTwin-Demo
-
 ## Mixed Reality Demo
 Evergine.MRTK is a project that provides a set of components and features used to accelerate cross-platform XR application development in Evergine.
 
