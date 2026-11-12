@@ -42,7 +42,7 @@ This showcase demonstrates the seamless integration of __MAUI__ and __Evergine__
 Source Code: https://github.com/EvergineTeam/EverSneaks
 
 ## Physics Sample
-This sample shows how you can use Evergine to perform physics simulations that interact with other physics elements.
+This sample shows how to use Evergine's Jolt Physics integration: a forklift in a warehouse that can pick up a pallet from a rack and carry it. It uses simulation-ready assets with real-world scale and masses, as a base for physics-driven simulation scenarios.
 
 ![alt Physics Sample](Images/VehiclePhysicsSample.jpg)
 
